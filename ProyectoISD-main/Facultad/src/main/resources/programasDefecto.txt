@@ -1,0 +1,5 @@
+Programa de Ingenieria Civil,5,5
+Programa de Ingenieria Electronica,5, 5
+Programa de Ingenieria de Sistemas,5,5
+Programa de Ingenieria Mecanica,5,5
+Programa de Ingenieria Industrial,5,5

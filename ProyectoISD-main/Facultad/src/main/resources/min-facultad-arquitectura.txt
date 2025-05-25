@@ -1,0 +1,5 @@
+Arquitectura,7,2
+Urbanismo,7,2
+Diseño de Interiores,7,2
+Paisajismo,7,2
+Restauración de Patrimonio,7,2

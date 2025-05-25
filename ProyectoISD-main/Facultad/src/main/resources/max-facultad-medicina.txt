@@ -1,0 +1,5 @@
+Medicina General,10,4
+Enfermería,10,4
+Odontología,10,4
+Farmacia,10,4
+Terapia Física,10,4

@@ -1,0 +1,5 @@
+Derecho Penal,7,2
+Derecho Civil,7,2
+Derecho Internacional,7,2
+Derecho Laboral,7,2
+Derecho Constitucional,7,2

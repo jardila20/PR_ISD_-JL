@@ -1,0 +1,5 @@
+Administración de Empresas,10,4
+Contabilidad,10,4
+Economía,10,4
+Mercadotecnia,10,4
+Finanzas,10,4

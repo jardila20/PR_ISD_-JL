@@ -1,0 +1,5 @@
+Bellas Artes,10,4
+Música,10,4
+Teatro,10,4
+Danza,10,4
+Diseño Gráfico,10,4

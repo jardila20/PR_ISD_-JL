@@ -1,0 +1,5 @@
+Ingeniería Civil,10,4
+Ingeniería Electrónica,10,4
+Ingeniería de Sistemas,10,4
+Ingeniería Mecánica,10,4
+Ingeniería Industrial,10,4

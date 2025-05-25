@@ -1,0 +1,5 @@
+Arquitectura,10,4
+Urbanismo,10,4
+Diseño de Interiores,10,4
+Paisajismo,10,4
+Restauración de Patrimonio,10,4

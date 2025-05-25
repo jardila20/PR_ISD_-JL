@@ -1,0 +1,5 @@
+Educación Primaria,10,4
+Educación Secundaria,10,4
+Educación Especial,10,4
+Psicopedagogía,10,4
+Administración Educativa,10,4

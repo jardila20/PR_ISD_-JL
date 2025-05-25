@@ -1,0 +1,5 @@
+Biología,7,2
+Química,7,2
+Física,7,2
+Geología,7,2
+Ciencias Ambientales,7,2

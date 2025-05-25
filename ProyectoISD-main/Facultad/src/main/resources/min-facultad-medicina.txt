@@ -1,0 +1,5 @@
+Medicina General,7,2
+Enfermería,7,2
+Odontología,7,2
+Farmacia,7,2
+Terapia Física,7,2

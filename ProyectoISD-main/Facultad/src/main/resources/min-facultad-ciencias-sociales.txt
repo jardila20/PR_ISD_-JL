@@ -1,0 +1,5 @@
+Psicología,7,2
+Sociología,7,2
+Trabajo Social,7,2
+Antropología,7,2
+Comunicación,7,2

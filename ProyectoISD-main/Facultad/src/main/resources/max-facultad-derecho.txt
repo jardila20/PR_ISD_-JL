@@ -1,0 +1,5 @@
+Derecho Penal,10,4
+Derecho Civil,10,4
+Derecho Internacional,10,4
+Derecho Laboral,10,4
+Derecho Constitucional,10,4

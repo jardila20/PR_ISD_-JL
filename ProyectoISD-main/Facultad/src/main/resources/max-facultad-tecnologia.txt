@@ -1,0 +1,5 @@
+Desarrollo de Software,10,4
+Redes y Telecomunicaciones,10,4
+Ciberseguridad,10,4
+Inteligencia Artificial,10,4
+Big Data,10,4

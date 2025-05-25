@@ -1,0 +1,5 @@
+Desarrollo de Software,7,2
+Redes y Telecomunicaciones,7,2
+Ciberseguridad,7,2
+Inteligencia Artificial,7,2
+Big Data,7,2

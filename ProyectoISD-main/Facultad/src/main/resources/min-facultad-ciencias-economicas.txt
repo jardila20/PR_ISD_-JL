@@ -1,0 +1,5 @@
+Administración de Empresas,7,2
+Contabilidad,7,2
+Economía,7,2
+Mercadotecnia,7,2
+Finanzas,7,2

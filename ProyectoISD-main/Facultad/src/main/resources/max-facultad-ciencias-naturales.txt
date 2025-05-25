@@ -1,0 +1,5 @@
+Biología,10,4
+Química,10,4
+Física,10,4
+Geología,10,4
+Ciencias Ambientales,10,4

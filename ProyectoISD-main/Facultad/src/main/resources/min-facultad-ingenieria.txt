@@ -1,0 +1,5 @@
+Ingeniería Civil,7,2
+Ingeniería Electrónica,7,2
+Ingeniería de Sistemas,7,2
+Ingeniería Mecánica,7,2
+Ingeniería Industrial,7,2

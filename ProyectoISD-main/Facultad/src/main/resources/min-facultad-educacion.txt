@@ -1,0 +1,5 @@
+Educación Primaria,7,2
+Educación Secundaria,7,2
+Educación Especial,7,2
+Psicopedagogía,7,2
+Administración Educativa,7,2

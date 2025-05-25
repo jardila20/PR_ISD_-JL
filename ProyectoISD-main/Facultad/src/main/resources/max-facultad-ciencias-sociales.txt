@@ -1,0 +1,5 @@
+Psicología,10,4
+Sociología,10,4
+Trabajo Social,10,4
+Antropología,10,4
+Comunicación,10,4
